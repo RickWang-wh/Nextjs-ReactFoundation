@@ -1,4 +1,7 @@
 {
+  "comments":{
+    "comment": "If you want to try this project localy, please empty content in this file, include me :("
+  },
   "scripts": {
     "dev": "next dev"
   },
