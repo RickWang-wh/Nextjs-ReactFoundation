@@ -1,10 +1,6 @@
 {
   "comments":{
-    "comment": "If you want to try this project localy, please empty content in this file, include me :(",
-    "comment": "Before deleting all, copy commands below:",
-    "command": "npm install react@latest react-dom@latest next@latest",
-    "command": "copy the 'scripts' section below, and then paste it where it is now."
-    "then": "run the 'run npm dev' et viola."
+    "comment": "run the reconfig.sh in this path!!"
   },
   "scripts": {
     "dev": "next dev"
